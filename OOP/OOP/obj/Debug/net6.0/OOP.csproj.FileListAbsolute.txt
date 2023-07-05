@@ -1,0 +1,15 @@
+F:\Csharp-test\OOP\OOP\bin\Debug\net6.0\OOP.exe
+F:\Csharp-test\OOP\OOP\bin\Debug\net6.0\OOP.deps.json
+F:\Csharp-test\OOP\OOP\bin\Debug\net6.0\OOP.runtimeconfig.json
+F:\Csharp-test\OOP\OOP\bin\Debug\net6.0\OOP.dll
+F:\Csharp-test\OOP\OOP\bin\Debug\net6.0\OOP.pdb
+F:\Csharp-test\OOP\OOP\obj\Debug\net6.0\OOP.csproj.AssemblyReference.cache
+F:\Csharp-test\OOP\OOP\obj\Debug\net6.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+F:\Csharp-test\OOP\OOP\obj\Debug\net6.0\OOP.AssemblyInfoInputs.cache
+F:\Csharp-test\OOP\OOP\obj\Debug\net6.0\OOP.AssemblyInfo.cs
+F:\Csharp-test\OOP\OOP\obj\Debug\net6.0\OOP.csproj.CoreCompileInputs.cache
+F:\Csharp-test\OOP\OOP\obj\Debug\net6.0\OOP.dll
+F:\Csharp-test\OOP\OOP\obj\Debug\net6.0\refint\OOP.dll
+F:\Csharp-test\OOP\OOP\obj\Debug\net6.0\OOP.pdb
+F:\Csharp-test\OOP\OOP\obj\Debug\net6.0\OOP.genruntimeconfig.cache
+F:\Csharp-test\OOP\OOP\obj\Debug\net6.0\ref\OOP.dll
