@@ -1,0 +1,15 @@
+F:\Csharp-test\ControlStatements\ControlStatements\bin\Debug\net6.0\ControlStatements.exe
+F:\Csharp-test\ControlStatements\ControlStatements\bin\Debug\net6.0\ControlStatements.deps.json
+F:\Csharp-test\ControlStatements\ControlStatements\bin\Debug\net6.0\ControlStatements.runtimeconfig.json
+F:\Csharp-test\ControlStatements\ControlStatements\bin\Debug\net6.0\ControlStatements.dll
+F:\Csharp-test\ControlStatements\ControlStatements\bin\Debug\net6.0\ControlStatements.pdb
+F:\Csharp-test\ControlStatements\ControlStatements\obj\Debug\net6.0\ControlStatements.csproj.AssemblyReference.cache
+F:\Csharp-test\ControlStatements\ControlStatements\obj\Debug\net6.0\ControlStatements.GeneratedMSBuildEditorConfig.editorconfig
+F:\Csharp-test\ControlStatements\ControlStatements\obj\Debug\net6.0\ControlStatements.AssemblyInfoInputs.cache
+F:\Csharp-test\ControlStatements\ControlStatements\obj\Debug\net6.0\ControlStatements.AssemblyInfo.cs
+F:\Csharp-test\ControlStatements\ControlStatements\obj\Debug\net6.0\ControlStatements.csproj.CoreCompileInputs.cache
+F:\Csharp-test\ControlStatements\ControlStatements\obj\Debug\net6.0\ControlStatements.dll
+F:\Csharp-test\ControlStatements\ControlStatements\obj\Debug\net6.0\refint\ControlStatements.dll
+F:\Csharp-test\ControlStatements\ControlStatements\obj\Debug\net6.0\ControlStatements.pdb
+F:\Csharp-test\ControlStatements\ControlStatements\obj\Debug\net6.0\ControlStatements.genruntimeconfig.cache
+F:\Csharp-test\ControlStatements\ControlStatements\obj\Debug\net6.0\ref\ControlStatements.dll
