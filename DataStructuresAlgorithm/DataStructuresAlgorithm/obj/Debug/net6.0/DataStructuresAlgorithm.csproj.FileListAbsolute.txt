@@ -1,0 +1,15 @@
+F:\Csharp-test\DataStructuresAlgorithm\DataStructuresAlgorithm\bin\Debug\net6.0\DataStructuresAlgorithm.exe
+F:\Csharp-test\DataStructuresAlgorithm\DataStructuresAlgorithm\bin\Debug\net6.0\DataStructuresAlgorithm.deps.json
+F:\Csharp-test\DataStructuresAlgorithm\DataStructuresAlgorithm\bin\Debug\net6.0\DataStructuresAlgorithm.runtimeconfig.json
+F:\Csharp-test\DataStructuresAlgorithm\DataStructuresAlgorithm\bin\Debug\net6.0\DataStructuresAlgorithm.dll
+F:\Csharp-test\DataStructuresAlgorithm\DataStructuresAlgorithm\bin\Debug\net6.0\DataStructuresAlgorithm.pdb
+F:\Csharp-test\DataStructuresAlgorithm\DataStructuresAlgorithm\obj\Debug\net6.0\DataStructuresAlgorithm.csproj.AssemblyReference.cache
+F:\Csharp-test\DataStructuresAlgorithm\DataStructuresAlgorithm\obj\Debug\net6.0\DataStructuresAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+F:\Csharp-test\DataStructuresAlgorithm\DataStructuresAlgorithm\obj\Debug\net6.0\DataStructuresAlgorithm.AssemblyInfoInputs.cache
+F:\Csharp-test\DataStructuresAlgorithm\DataStructuresAlgorithm\obj\Debug\net6.0\DataStructuresAlgorithm.AssemblyInfo.cs
+F:\Csharp-test\DataStructuresAlgorithm\DataStructuresAlgorithm\obj\Debug\net6.0\DataStructuresAlgorithm.csproj.CoreCompileInputs.cache
+F:\Csharp-test\DataStructuresAlgorithm\DataStructuresAlgorithm\obj\Debug\net6.0\DataStructuresAlgorithm.dll
+F:\Csharp-test\DataStructuresAlgorithm\DataStructuresAlgorithm\obj\Debug\net6.0\refint\DataStructuresAlgorithm.dll
+F:\Csharp-test\DataStructuresAlgorithm\DataStructuresAlgorithm\obj\Debug\net6.0\DataStructuresAlgorithm.pdb
+F:\Csharp-test\DataStructuresAlgorithm\DataStructuresAlgorithm\obj\Debug\net6.0\DataStructuresAlgorithm.genruntimeconfig.cache
+F:\Csharp-test\DataStructuresAlgorithm\DataStructuresAlgorithm\obj\Debug\net6.0\ref\DataStructuresAlgorithm.dll
