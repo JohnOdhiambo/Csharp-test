@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "GgfHHfBgfpt1wJk3J1x5iZjH6R9vZs3Hew9ckHJ7LYINHdsJ5f9RJysW7h2eefzjFgOMRBbGZDSqUhX5RlL5XQ==",
+  "success": true,
+  "projectFilePath": "F:\\Csharp-test\\UnitTests\\UnitTests\\UnitTests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\xunit.extensibility.core\\2.5.0\\xunit.extensibility.core.2.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
